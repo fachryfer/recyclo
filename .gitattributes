@@ -11,13 +11,13 @@ CHANGELOG.md export-ignore
 .styleci.yml export-ignore
 
 
-public/assets/js/* linguist-vendored
-public/js/* linguist-vendored
-resources/js/* linguist-vendored
-public/assets/css/* linguist-vendored
-public/assets/library/* linguist-vendored
-public/assets/plugin/* linguist-vendored
-public/assets/vendor/* linguist-vendored
-public/assets/summernote/* linguist-vendored
-public/assets/selectric/* linguist-vendored
-public/assets/sweetalert/* linguist-vendored
+public/assets/js/** linguist-vendored
+public/js/** linguist-vendored
+resources/js/** linguist-vendored
+public/assets/css/** linguist-vendored
+public/assets/library/** linguist-vendored
+public/assets/plugin/** linguist-vendored
+public/assets/vendor/** linguist-vendored
+public/assets/summernote/** linguist-vendored
+public/assets/selectric/** linguist-vendored
+public/assets/sweetalert/** linguist-vendored
